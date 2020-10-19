@@ -1,0 +1,26 @@
+<annotation>
+	<folder>水管接头黄</folder>
+	<filename>IMG_20200702_164405.jpg</filename>
+	<path>images\水管接头黄\IMG_20200702_164405.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>水管接头黄</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>316</xmin>
+			<ymin>494</ymin>
+			<xmax>901</xmax>
+			<ymax>1073</ymax>
+		</bndbox>
+	</object>
+</annotation>

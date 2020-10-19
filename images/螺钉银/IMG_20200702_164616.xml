@@ -1,0 +1,26 @@
+<annotation>
+	<folder>螺钉银</folder>
+	<filename>IMG_20200702_164616.jpg</filename>
+	<path>images\螺钉银\IMG_20200702_164616.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>螺钉银</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>251</xmin>
+			<ymin>639</ymin>
+			<xmax>864</xmax>
+			<ymax>913</ymax>
+		</bndbox>
+	</object>
+</annotation>

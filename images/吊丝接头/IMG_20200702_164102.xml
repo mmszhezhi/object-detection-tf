@@ -1,0 +1,26 @@
+<annotation>
+	<folder>吊丝接头</folder>
+	<filename>IMG_20200702_164102.jpg</filename>
+	<path>images\吊丝接头\IMG_20200702_164102.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>吊丝接头</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>326</xmin>
+			<ymin>518</ymin>
+			<xmax>879</xmax>
+			<ymax>1091</ymax>
+		</bndbox>
+	</object>
+</annotation>

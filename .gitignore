@@ -1,0 +1,11 @@
+*.tfrecord
+classdata
+models
+annotations
+annotations2
+testimg
+testresult1
+testsubset
+*.record
+pre-trained-models
+.idea

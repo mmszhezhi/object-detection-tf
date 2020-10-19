@@ -1,0 +1,40 @@
+item {
+  id: 1
+  name: 'T型块1'
+}
+item {
+  id: 2
+  name: 'T型块2'
+}
+item {
+  id: 3
+  name: 'T型螺钉'
+}
+item {
+  id: 4
+  name: '吊丝接头'
+}
+item {
+  id: 5
+  name: '水管接头银'
+}
+item {
+  id: 6
+  name: '水管接头黄'
+}
+item {
+  id: 7
+  name: '燕尾自攻螺丝'
+}
+item {
+  id: 8
+  name: '螺钉'
+}
+item {
+  id: 9
+  name: '螺钉银'
+}
+item {
+  id: 10
+  name: '销钉'
+}
