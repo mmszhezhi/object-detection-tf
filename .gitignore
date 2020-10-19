@@ -5,6 +5,7 @@ annotations
 annotations2
 testimg
 testresult1
+testresult
 testsubset
 *.record
 pre-trained-models
